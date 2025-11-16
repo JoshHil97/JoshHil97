@@ -104,3 +104,44 @@ What I built:**
 Repo: 
 https://github.com/JoshHil97/accountability_app
 
+🧠 Skills Summary
+
+These are the technologies I've actually used across my projects — the ones that shaped how I think and build.
+
+🔹 Frontend Skills
+- React & TypeScript  
+- Next.js  
+- React Native  
+- Tailwind CSS  
+- Expo  
+- Reanimated  
+- Responsive UI Design  
+
+🔹 Backend Skills
+- Spring Boot (Java)  
+- Node.js (beginner–intermediate)  
+- Express.js  
+- Ruby (Sinatra)  
+- Python (foundational)
+
+🔹 Database & Data Handling
+- PostgreSQL  
+- Supabase  
+- SQL (queries, schema design, relationships)  
+
+ 🔹 Tools, Platforms & Practices
+- Git & GitHub  
+- Vercel (frontend deployment)  
+- Render (backend deployment)  
+- Postman (API testing)  
+- Streamlit  
+- Docker (beginner)  
+- Agile practices & pair programming  
+- Writing clean, structured project documentation
+
+
+
+📫 Contact
+
+**Portfolio:** https://joshua-portfolio-psi.vercel.app  
+**LinkedIn:** https://linkedin.com/in/joshua-hilarion-258461113  
