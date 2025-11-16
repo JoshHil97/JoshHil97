@@ -39,4 +39,68 @@ I started with **Python**, so that’s always been part of my foundation — it 
 - Render  
 - Postman  
 - Streamlit  
-- Docker 
+- Docker
+🚀 Featured Projects
+
+Here are some of the main projects I've worked on. Each one taught me something different and helped me grow across the full stack.
+
+🌐 Church Directory (Full-Stack)
+A full-stack rebuild of an older “Streamlit” version into a modern, scalable directory system for the church.
+
+What I built:
+- React + TypeScript frontend (ui)
+- Spring Boot + PostgreSQL backend (api)
+- Search, filtering, CRUD operations
+- Relational database design
+- Authentication & role structure
+- Deployment setup
+
+Repos:
+- Frontend: https://github.com/JoshHil97/vbci-church-directory-ui  
+- Original version: https://github.com/JoshHil97/church_directory  
+
+
+
+🏠 MakersBnB (Ruby/Sinatra)
+An Airbnb-style booking platform built during Makers.
+
+What I worked on:
+- Ruby/Sinatra backend
+- PostgreSQL schema + migrations
+- Authentication & sessions
+- Booking logic
+- Pair programming & TDD with RSpec
+
+Repo:
+https://github.com/JoshHil97/makersbnb-jh
+
+
+
+📱 SoulAnchor (React Native + TypeScript)
+A mobile app focused on emotional guidance with animations, gradients, and dynamic content.
+
+What I built:
+- React Native (TS) components
+- Animated UI with Reanimated
+- Gradient themes
+- 30+ emotion modules with structured data
+- Randomised content logic
+
+Repo:
+https://github.com/JoshHil97/soul-anchor
+
+
+
+📊 Accountability Tracker (Python + Supabase)
+A data-tracking dashboard for accountability and lifestyle monitoring.
+
+What I built:**
+- Streamlit UI
+- Supabase database setup
+- Real-time analytics
+- Filters + charts
+- Authentication flow
+
+Repo: 
+https://github.com/JoshHil97/accountability_app
+
